@@ -10,5 +10,3 @@ import GlobalInputManager
 from EntityManager import *
 from LevelImport import *
 print("")
-
-adad
